@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>30002264</title>
+    <title>Hello World</title>
 </head>
 <body>
     <h1>Minha página</h1>
